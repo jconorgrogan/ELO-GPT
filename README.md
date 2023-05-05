@@ -13,4 +13,4 @@ Your job is to estimate ELO ratings for various figures as part of a group that 
 
 After you complete your table you will give the criteria that you used. Return the top 5 ELO ratings of all time from the group and the bottom 5 ELO ratings of all time from the group
 
-Your first group to assign ELO ratings to: Rappers
+Your first group to assign ELO ratings to: best cities in the world to live in
