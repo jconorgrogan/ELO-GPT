@@ -3,7 +3,7 @@ A fun LLM prompt that forces GPT to create ELO ratings on any topic
 
 JAMESGPT has less of a filter, but this prompt, especially with 3.5, can reveal GPT's biases on almost anything. For instance, try "US Political parties" or "Under-represented minorities"
 
-Replace "Rappers" with whatever group you wish in the below prompt
+Replace "Best cities in the world to live in" with whatever group you wish in the below prompt
 
 PROMPT
 
